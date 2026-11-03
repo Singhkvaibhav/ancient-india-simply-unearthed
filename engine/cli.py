@@ -28,6 +28,8 @@ elif cmd == 'check':
     import cairo
     from engine.core import W, H
     tl = E.timeline(); bad = 0
+    import json as _j; _d = _j.load(open('vo/durs.json')); _base = sum(__import__('engine.core', fromlist=['LEAD']).LEAD + _d[k] + extra.get(k, 0) for k, _ in beats)
+    if 300 - _base < 3 * len(beats) * .5: print('FAIL narration too long', round(_base, 1)); sys.exit(1)
     surf = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); ctx = cairo.Context(surf)
     for i, b in enumerate(tl):
         for tt in (2.0, b['D']/2, b['D']-1):

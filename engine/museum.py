@@ -220,3 +220,21 @@ def case(ctx, x, y, w, h, a=1., t=0.):
     rgba(ctx, (1, 1, 1), .35 * a); ctx.set_line_width(3); ctx.stroke()
 
 def case_art_y(y, h): return y - h / 2 + h * .39
+
+def art_shelter(ctx, cx, cy, s=1., a=1.):
+    carve(ctx, lambda: poly(ctx, [(-110, 90), (-110, -10), (-70, -70), (0, -96), (70, -70), (110, -10), (110, 90), (60, 90), (60, 20), (-60, 20), (-60, 90)], cx, cy, s), C['basalt'], a, grain=.25)
+    carve(ctx, lambda: poly(ctx, [(-40, 10), (-34, -22), (-8, -34), (24, -34), (38, -18), (34, 8)], cx, cy, s), C['terra'], a, bev=2)
+
+def art_sickle(ctx, cx, cy, s=1., a=1.):
+    def blade():
+        ctx.new_sub_path(); ctx.move_to(cx - 70 * s, cy + 70 * s); ctx.curve_to(cx - 100 * s, cy - 60 * s, cx + 40 * s, cy - 100 * s, cx + 90 * s, cy - 20 * s)
+        ctx.curve_to(cx + 20 * s, cy - 60 * s, cx - 40 * s, cy - 40 * s, cx - 50 * s, cy + 70 * s); ctx.close_path()
+    carve(ctx, blade, C['basalt'], a, grain=.15)
+    carve(ctx, lambda: rrect(ctx, cx - 76 * s, cy + 56 * s, 36 * s, 46 * s, 6), C['clay'], a, bev=2)
+
+def art_quern(ctx, cx, cy, s=1., a=1.):
+    carve(ctx, lambda: poly(ctx, [(-110, 30), (110, 30), (90, 74), (-90, 74)], cx, cy, s), C['basalt'], a, grain=.25)
+    carve(ctx, lambda: ell(ctx, cx, cy + 20 * s, 54 * s, 24 * s), C['sandst'], a, bev=2)
+    carve(ctx, lambda: ell(ctx, cx + 20 * s, cy - 14 * s, 40 * s, 22 * s), C['clay'], a, bev=2)
+
+ART = {k[4:]: v for k, v in list(globals().items()) if k.startswith('art_')}

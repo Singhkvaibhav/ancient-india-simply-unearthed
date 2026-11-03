@@ -26,8 +26,9 @@ ls parts/[0-9]*.mp4 | sed "s|^|file '$PWD/|;s|$|'|" > parts/list.txt
 ffmpeg -y -loglevel error -f concat -safe 0 -i parts/list.txt -c copy video.mp4
 $CLI audio > audio.log 2>&1
 ffmpeg -y -loglevel error -i video.mp4 -i mix.wav -c:v copy -c:a aac -b:a 192k -movflags +faststart -shortest final.mp4
-NAME=$(python3 -c "import re;print(re.search(r'NAME\s*=\s*.([^\"\']+).',open('ep.py').read()).group(1))")
+NAME=$(python3 -c "import sys;sys.path.insert(0,'../..');from engine import plan;print(plan.BY_EP[$((10#$nn))][2])")
 cd ../..
 cp episodes/ep$nn/final.mp4 output/Anc${nn}_$NAME.mp4; cp episodes/ep$nn/ep$nn.srt output/Anc$nn.srt
 python3 tools/yt.py $((10#$nn)); python3 tools/thumb.py $((10#$nn))
 echo "EP$nn done"
+rm -rf episodes/ep$nn/parts episodes/ep$nn/vo/*.wav episodes/ep$nn/mix.wav episodes/ep$nn/video.mp4 episodes/ep$nn/final.mp4

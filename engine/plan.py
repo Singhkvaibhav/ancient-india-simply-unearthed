@@ -41,8 +41,8 @@ PLAN = [
     (38, 'Chola Village and Temple', 'Chola_Temples', (850, 1279), 'lamp', 'Bronze lamp'),
     (39, 'Three Powers, One Prize', 'Tripartite_Struggle', (750, 1000), 'bullcap', 'Kannauj prize'),
     (40, 'The Rajput Kingdoms', 'Rajputs', (750, 1200), 'fort', 'Rajput fort'),
-    (41, 'Arrivals from the West', 'Arrivals_West', (711, 1200), 'chalice', 'Silver dirham'),
-    (42, 'Land, Lords and Villages', 'Land_Lords', (600, 1200), 'plough', 'Land-grant plate'),
+    (41, 'Arrivals from the West', 'Arrivals_West', (711, 1200), 'coin', 'Silver dirham'),
+    (42, 'Land, Lords and Villages', 'Land_Lords', (600, 1200), 'tablet', 'Land-grant plate'),
     (43, 'Three Styles of Temple', 'Temple_Styles', (500, 1200), 'temple', 'Temple model'),
     (44, 'The Whole Gallery', 'Whole_Gallery', (-2000000, 1200), 'lotus', 'The whole gallery'),
 ]
