@@ -26,3 +26,7 @@ Method: contested or number-heavy claims were searched on the web and compared w
 ## Not verified in this pass
 
 Everything else, including the dynasty dates for the Satavahanas, Pallavas, Cholas and Rajputs, the Gupta and Harsha dates, the Fa-Hien and Hiuen Tsang travel dates, and the quiz answers. These follow standard NCERT-level accounts from memory. Please spot-check them against NCERT and a university text such as Romila Thapar's *Early India* before publishing.
+
+## Status of verification
+
+The NCERT comparison was **not done**: `ncert.nic.in` was blocked in the build session, and the owner chose to finalize without it. The narration has not been checked line by line against NCERT or a university text. Before publishing, compare the dates, names and quiz answers with the edition your channel follows, starting with the "Not verified in this pass" list above and the contested dates (Kanishka, Buddha, Bimbisara, Mehrgarh).
