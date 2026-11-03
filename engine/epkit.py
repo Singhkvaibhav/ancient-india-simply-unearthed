@@ -30,8 +30,9 @@ def build(S, g):
         qs += f"Number {['one', 'two', 'three'][i]}. {qq} [[3]] The answer: {ans}. [[1]] "
     qs += f"Now one line for Mains. {S['mains']}"
     N['quiz'] = qs
-    facts = S['facts']
-    N['gallery'] = f"{S['exhibit_say']} Three facts to take away. " + ' '.join(f.rstrip('.') + '.' for f in facts) + (f" Next gallery: {nxt}." if nxt else '')
+    facts = S.get('facts', [])
+    if S.get('walk_say'): N['gallery'] = S['walk_say']
+    else: N['gallery'] = f"{S['exhibit_say']} Three facts to take away. " + ' '.join(f.rstrip('.') + '.' for f in facts) + (f" Next gallery: {nxt}." if nxt else '')
     pl = S['plaque']
     if pl['kind'] == 'rename':
         plaque = anc.plaque(old=pl['old'], new=pl['new'], cue_b=pl['cue_b'], sub=pl.get('sub'))
@@ -46,6 +47,6 @@ def build(S, g):
         ('plaque', N['plaque'], S_('stone', plaque)),
         ('inscription', N['inscription'], S_('stone', anc.inscription(tip))),
         ('quiz', N['quiz'], S_('stone', anc.quiz(quiz_cards, 'One line: ' + S['mains'], 'Now one line for Mains'))),
-        ('gallery', N['gallery'], S_('museum', anc.gallery(n, p[5], facts, nxt, 1.5, [f.rstrip('.')[:22] for f in facts], ('Next gallery' if nxt else None)))),
+        ('walk' if S.get('walk_say') else 'gallery', N['gallery'], S_('museum', anc.final_walk(44) if S.get('walk_say') else anc.gallery(n, p[5], facts, nxt, 1.5, [f.rstrip('.')[:22] for f in facts], ('Next gallery' if nxt else None)))),
     ]
     g.update(EP=n, TITLE=p[1], NAME=p[2], TIP_LINES=tip, PLACE_AT=1.5, BEATS=BEATS, CAPTIONS={}, EXTRA=S.get('extra', {}))

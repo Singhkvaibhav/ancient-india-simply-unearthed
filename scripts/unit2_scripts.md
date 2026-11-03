@@ -1,0 +1,52 @@
+# Unit 2: The Vedic age (Episodes 7 to 9)
+
+Dates: "about" or "c.", BCE/CE, most common textbook date. Fact check notes follow each episode.
+
+## Episode 7: The Early Vedic Age
+
+**Inscription tip:** Rivers, cows, rajan, sabha: a herding world with shared power. · **Sources lit:** texts · **Timeline ribbon:** (-1500, -1000) · **Plaque:** Scholars disagree: Migration view / Indigenous view · **Exhibit:** Manuscript leaf · **Label facts:** Hymns of the Rigveda, learnt by heart; Dated to about 1500 to 1000 BCE; Cattle, chiefs and open assemblies
+
+| Segment | Visual | Narration |
+| --- | --- | --- |
+| The Dig | DIG: brush reveals the artefact | The brush reveals a leaf with lines of writing. But the words on it are far older than the leaf. They were spoken and remembered for many centuries before anyone wrote them down. This is a hymn from the Rigveda. Who spoke these words, and where? |
+| How do we know? | SOURCES: evidence tags light up | How do we know? Here the evidence is not mainly from the ground. It is a text. The Rigveda is a collection of hymns, learnt by heart and passed down by voice. Archaeology cannot yet match it to one clear set of sites. |
+| The Frieze | FRIEZE: carved panel pans scene by scene | The Rigveda has one thousand and twenty-eight hymns, in ten books. It describes the region of the Sapta Sindhu, the land of seven rivers, in the north-west. The people were mainly pastoral. Cattle were their wealth. Even the word for war meant a search for cows. They also valued the horse and the chariot. They lived in tribes, called jana. A tribe was led by a chief, the rajan. His priest was the purohita. The clan was the kula, and the village was the grama. Power was shared with assemblies. The sabha and the samiti advised the chief. Women could attend, and women such as Lopamudra and Ghosha are named as composers of hymns. The best-known battle in the Rigveda is the Battle of the Ten Kings, fought on the river Parushni, which is the Ravi. Sudas of the Bharata tribe won. Society was not yet rigid. Farming was secondary to herding. Gold was used as an ornament, and trade was by barter. |
+| The Plaque | PLAQUE | Scholars disagree. Who were the Vedic people, and where did they come from? One view says that Indo-Aryan speakers migrated into north-western India from Central Asia over time, and cites language and recent genetic studies. Another view says that the Vedic culture grew up within India itself. This is a long and sensitive debate, and the evidence is still being studied. |
+| Inscription | INSCRIPTION: tip chiselled in | Carve this tip into memory. Rivers, cows, rajan, sabha:. a herding world with shared power. Four words give you the Early Vedic world: rivers, cows, a chief and an assembly. |
+| Dig Quiz | QUIZ: three artefact cards, then Mains | Dig Quiz. Pause and name it. Number one. Name the oldest Veda, a collection of hymns. The answer: the Rigveda. Number two. What was the tribal chief called in the Early Vedic age? The answer: the rajan. Number three. What was the main form of wealth in the Rigveda? The answer: cattle. Now one line for Mains. Describe the political and social life of the Early Vedic period. |
+| The Gallery | GALLERY: exhibit placed, label | The manuscript leaf goes into its case. The words on it were first spoken, not written. Three facts to take away. Hymns of the Rigveda, learnt by heart. Dated to about 1500 to 1000 BCE. Cattle, chiefs and open assemblies. Next gallery: The Later Vedic Age. |
+
+Fact check: dates are the most common textbook versions; where sources differ the narration says "about", "c." or names the alternative.
+
+## Episode 8: The Later Vedic Age
+
+**Inscription tip:** Iron, Painted Grey Ware, Kuru, Panchala, four varnas. · **Sources lit:** dug up, texts · **Timeline ribbon:** (-1000, -600) · **Plaque:** Scholars disagree: Grew from Vedic society / A long historical process · **Exhibit:** Iron ploughshare · **Label facts:** Iron tool of the Ganga plains; Linked with Painted Grey Ware; Larger farms, larger kingdoms
+
+| Segment | Visual | Narration |
+| --- | --- | --- |
+| The Dig | DIG: brush reveals the artefact | Brush the soil from a dark, heavy blade. It is iron. A plough tipped with iron can break hard, wet soil that a wooden plough cannot. People who used this tool could clear forests and feed more people. What did iron change? |
+| How do we know? | SOURCES: evidence tags light up | How do we know? From both. Archaeologists dug up the grey painted pottery and iron tools of the Ganga plains. The later Vedic texts, the Samaveda, Yajurveda and Atharvaveda, and the Brahmanas, describe the same world. |
+| The Frieze | FRIEZE: carved panel pans scene by scene | The Later Vedic age runs from about one thousand to six hundred BCE. The centre moved east, to the Ganga-Yamuna doab. Iron came into use, from about one thousand BCE. Archaeologists link this age with Painted Grey Ware, a fine grey pottery with black designs. Farming became the main occupation. Wheat and rice were grown, and the iron-tipped plough was used. Larger harvests supported larger kingdoms. Tribes joined to form janapadas. The Kuru and Panchala kingdoms were the most powerful. The Kuru capital was Hastinapura. Kings now performed grand rituals, such as the Rajasuya, the Vajapeya and the Ashvamedha. The assemblies lost power. Society was divided into four varnas: Brahmana, Kshatriya, Vaishya and Shudra. Life was also ordered into stages, called ashramas. Women lost some of their earlier freedom. |
+| The Plaque | PLAQUE | Scholars disagree. How did the varna order begin, and how rigid was it? One view holds that a hierarchy of varna grew from Vedic society and hardened over time. Another view holds that caste took shape through a long historical process, in which occupations, kin groups and the state all played a part, and that the texts describe an ideal. |
+| Inscription | INSCRIPTION: tip chiselled in | Carve this tip into memory. Iron, Painted Grey Ware. Kuru, Panchala, four varnas. Iron plough, grey pottery, two kingdoms and four varnas. That is the Later Vedic age in four steps. |
+| Dig Quiz | QUIZ: three artefact cards, then Mains | Dig Quiz. Pause and name it. Number one. Name this metal tool that opened the forests to farming. The answer: an iron ploughshare. Number two. Which pottery is linked with the Later Vedic age? The answer: Painted Grey Ware. Number three. Which Kuru capital stands beside the Ganga? The answer: Hastinapura. Now one line for Mains. What changes did the Later Vedic age bring to society and polity? |
+| The Gallery | GALLERY: exhibit placed, label | The ploughshare goes into its case. It is plain, but it helped to change the map of power. Three facts to take away. Iron tool of the Ganga plains. Linked with Painted Grey Ware. Larger farms, larger kingdoms. Next gallery: Voices of the Veda. |
+
+Fact check: dates are the most common textbook versions; where sources differ the narration says "about", "c." or names the alternative.
+
+## Episode 9: Voices of the Veda
+
+**Inscription tip:** Four Vedas: Rig, Sama, Yajur, Atharva. Hymn, tune, rite, charm. · **Sources lit:** texts · **Timeline ribbon:** (-1500, -500) · **Plaque:** Old name, new name: Upanishads → Vedanta · **Exhibit:** Vedic manuscript · **Label facts:** Four Vedas and their later layers; Shruti: learnt by ear, not by eye; Upanishads ask about the self
+
+| Segment | Visual | Narration |
+| --- | --- | --- |
+| The Dig | DIG: brush reveals the artefact | The brush clears an old bound manuscript, its pages filled with the Vedas. For centuries these were not read. They were recited, and learnt by heart, line by line. The tradition calls them shruti, that which was heard. What is the difference between hearing and remembering? |
+| How do we know? | SOURCES: evidence tags light up | How do we know? This is a story told entirely by texts. The Vedas, the Brahmanas, the Aranyakas and the Upanishads give us ideas, rituals and questions. The oldest written manuscripts are much later than the words themselves. |
+| The Frieze | FRIEZE: carved panel pans scene by scene | There are four Vedas. The Rigveda is a collection of hymns. The Samaveda sets verses to melodies. The Yajurveda gives the formulas for sacrifice. The Atharvaveda holds spells and healing charms. Each Veda has layers. The Samhita is the collection of hymns. The Brahmanas explain the rituals. The Aranyakas, the forest texts, move toward meaning. The Upanishads ask about the self. The word Upanishad means sitting near a teacher. The Upanishads ask what the self is, and what lies behind the world. Many scholars see them as the roots of later Indian philosophy. The national motto, Satyameva Jayate, truth alone triumphs, is taken from the Mundaka Upanishad. The six Vedangas are the limbs of the Veda: Shiksha, which is sound, Kalpa, which is ritual, Vyakarana, which is grammar, Nirukta, which is word origins, Chhandas, which is metre, and Jyotisha, which is astronomy. The epics, the Ramayana and the Mahabharata, belong to a later time. They grew over many centuries. |
+| The Plaque | PLAQUE | Old name, new name. The Upanishads are also called Vedanta. The word means the end of the Veda, because they come at the end of the Vedic texts, and also because they are seen as its highest aim. |
+| Inscription | INSCRIPTION: tip chiselled in | Carve this tip into memory. Four Vedas: Rig, Sama, Yajur, Atharva. Hymn, tune, rite, charm. Four Vedas, four jobs: hymn, tune, rite and charm. Add the Upanishads for philosophy. |
+| Dig Quiz | QUIZ: three artefact cards, then Mains | Dig Quiz. Pause and name it. Number one. Which Veda is a collection of hymns? The answer: the Rigveda. Number two. Which texts are called the forest books? The answer: the Aranyakas. Number three. Our national motto comes from which Upanishad? The answer: the Mundaka Upanishad. Now one line for Mains. Discuss the significance of Vedic literature in understanding ancient Indian society. |
+| The Gallery | GALLERY: exhibit placed, label | The manuscript goes into its case. It holds words that were remembered for centuries. Three facts to take away. Four Vedas and their later layers. Shruti: learnt by ear, not by eye. Upanishads ask about the self. Next gallery: Sixteen Mahajanapadas. |
+
+Fact check: dates are the most common textbook versions; where sources differ the narration says "about", "c." or names the alternative.
+

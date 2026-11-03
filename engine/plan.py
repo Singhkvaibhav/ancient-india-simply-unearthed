@@ -39,7 +39,7 @@ PLAN = [
     (36, 'The Chalukyas of Badami', 'Chalukyas', (543, 757), 'elephant', 'Chalukya elephant'),
     (37, 'The Cholas', 'Cholas', (850, 1279), 'gopuram', 'Chola gopuram'),
     (38, 'Chola Village and Temple', 'Chola_Temples', (850, 1279), 'lamp', 'Bronze lamp'),
-    (39, 'Three Powers, One Prize', 'Tripartite_Struggle', (750, 1000), 'bullcap', 'Kannauj prize'),
+    (39, 'Three Powers, One Prize', 'Tripartite_Struggle', (750, 1000), 'crown', 'Kannauj crown'),
     (40, 'The Rajput Kingdoms', 'Rajputs', (750, 1200), 'fort', 'Rajput fort'),
     (41, 'Arrivals from the West', 'Arrivals_West', (711, 1200), 'coin', 'Silver dirham'),
     (42, 'Land, Lords and Villages', 'Land_Lords', (600, 1200), 'tablet', 'Land-grant plate'),
