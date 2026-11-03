@@ -17,3 +17,4 @@ __pycache__/
 queue.log
 STOP_QUEUE
 **/ep.ready
+push.err
