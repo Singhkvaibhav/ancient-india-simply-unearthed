@@ -5,7 +5,7 @@ dig="Brush away the soil. A heavy stone appears, chipped on both faces to a poin
 lit=['dug up'], lit_cues=['Archaeologists dug'], notes={'dug up': 'Tools, bones, soil layers'},
 sources="How do we know? There is no writing at all in this age. The only evidence is what people left behind: stone tools, animal bones, and the layers of soil that hold them. Archaeologists dug these up, and dated the layers.",
 frieze="In 1863, a geologist named Robert Bruce Foote picked up a stone tool at Pallavaram, near Madras. It was the first Palaeolithic tool found in India. "
-"The earliest period is the Lower Palaeolithic, which begins about two million years ago. People made hand-axes, cleavers and choppers from quartzite, a hard stone. Sites include Attirampakkam in Tamil Nadu and the Soan valley in Pakistan. "
+"The earliest period is the Lower Palaeolithic. Textbooks date its start to about two million years ago, and the oldest dated tools at Attirampakkam are over a million years old. People made hand-axes, cleavers and choppers from quartzite, a hard stone. Sites include Attirampakkam in Tamil Nadu and the Soan valley in Pakistan. "
 "These people lived by hunting and gathering, and moved with the seasons. They had no pottery and no farms. They sheltered in caves and rock shelters, such as those at Bhimbetka in Madhya Pradesh. "
 "In the Middle Palaeolithic, from about one hundred thousand years ago, tools grew smaller. People made flakes, scrapers and points. "
 "The Upper Palaeolithic begins about forty thousand years ago. Tools are now thin blades. Modern humans, called Homo sapiens, appear. "
@@ -26,6 +26,6 @@ quiz=[('handaxe', 'Name this heavy stone tool, chipped on both faces.', 'a hand-
       ('shelter', 'Name this kind of natural cave home, as found at Bhimbetka.', 'a rock shelter')],
 mains='Describe the way of life of the Palaeolithic people of India.',
 exhibit_say="The hand-axe goes into its case. It is the first exhibit in the gallery, and the oldest.",
-facts=['Quartzite, shaped on both faces', 'First found at Pallavaram, 1863', 'Lower Palaeolithic: from about 2 million years ago'],
+facts=['Quartzite, shaped on both faces', 'First found at Pallavaram, 1863', 'Lower Palaeolithic: over 1 million years ago'],
 )
 build(SPEC, globals())

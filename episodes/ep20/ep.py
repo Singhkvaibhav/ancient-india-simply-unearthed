@@ -9,7 +9,7 @@ frieze="Mauryan art has two streams. One is court art, made by royal order. The 
 "The capital stands on an abacus, above a bell-shaped base. The Sarnath lion capital, which is our national emblem, is the best known. "
 "At Kumrahar, near Patna, archaeologists found the remains of a great pillared hall, thought to have had eighty pillars. "
 "At the Barabar hills, caves were cut into hard granite and polished inside. The Lomas Rishi cave has a carved front. "
-"The art of the people includes terracotta figures, and large stone figures called yakshas and yakshis, such as the polished yakshi from Didarganj.",
+"The art of the people includes terracotta figures, and large stone figures called yakshas and yakshis, such as the polished yakshi from Didarganj, whose date is still debated.",
 scenes=[
  sc(None, 'Two streams of art', ar(-170, 'pillar', 'Court art', 1.0), ar(190, 'pot', 'Popular art', 1.0)),
  sc('The great pillars', 'Polished pillars', ar(-100, 'pillar', 'Chunar sandstone', 1.4), tx(-380, 'One piece. One gloss.', 38, 220)),

@@ -15,7 +15,7 @@ scenes=[
  sc('About 261 BCE', 'The Kalinga War', ar(-130, 'sword', 'About 261 BCE', 1.1), tx(-380, '13th Rock Edict: regret', 36, 120)),
  sc('After Kalinga', 'Dhamma, a code of conduct', tx(-380, 'Respect · Kindness', 38, 0), tx(-310, 'Tolerance · Non-violence', 38, 0), ar(0, 'wheel', None, .9)),
  sc('He appointed officers', 'Dhamma mahamattas', fg(-190, 'Mahamatta', col='basalt'), fg(100, 'Ashoka', crown=1), tx(-330, 'Dhamma yatras', 34, 300)),
- sc('He cared for', 'Welfare', ar(-150, 'pillar', 'Roads and wells', .9), tr(150), tr(280)),
+ sc('He cared for', 'Welfare', ar(-150, 'pillar', 'Roads and wells', .9), tr(190), tr(400)),
  sc('He also sent', 'Missions abroad', ar(-60, 'ship', 'To Sri Lanka', 1.2), tx(-340, 'Mahendra and Sanghamitra', 36, 120)),
 ],
 plaque_say="Old name, new name. Ashoka's own edicts do not usually use his name. They call him Devanampiya Piyadasi, which means beloved of the gods, of gentle looks. Only a few minor edicts, such as the one at Maski, name him Ashoka.",

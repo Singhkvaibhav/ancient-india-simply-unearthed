@@ -4,7 +4,7 @@ dig_q='Who sat on the throne of Magadha?', tags=['Site: Pataliputra', 'Era: 544 
 dig="The brush clears a carved throne. No one sits on it. This empty seat stands for the kings who ruled Magadha, one dynasty after another. Each one added land, and each one added power. Who sat on the throne of Magadha?",
 lit=['texts', 'dug up'], lit_cues=['Buddhist and Jain', 'Archaeologists dug'], notes={'texts': 'Buddhist, Jain, Puranas', 'dug up': 'Rajgir, Pataliputra'},
 sources="How do we know? Buddhist and Jain texts and the Puranas list the kings. Archaeologists dug up the walls of Rajgir and the wooden posts of Pataliputra. The exact dates of early kings are uncertain.",
-frieze="The first great dynasty of Magadha was the Haryanka. Bimbisara, about 544 BCE, grew his kingdom by war and marriage. He married princesses from Kosala, from the Licchavi clan and from Madra. He conquered Anga. "
+frieze="The first great dynasty of Magadha was the Haryanka. Bimbisara, from about 544 BCE by the traditional count, grew his kingdom by war and marriage. He married princesses from Kosala, from the Licchavi clan and from Madra. He conquered Anga. "
 "His son Ajatashatru was bolder. He defeated Kosala and the Vajji republic. His army used a catapult and a covered war chariot. In his time, the first Buddhist council met. "
 "Udayin, his successor, founded Pataliputra at the meeting of the Ganga and Son. "
 "Next came the Shishunagas, who ended the power of Avanti. "

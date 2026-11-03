@@ -5,7 +5,7 @@ dig="The brush clears a gold coin, stamped with a king and figures from several 
 lit=['coins', 'inscriptions', 'texts'], lit_cues=['Kushana gold', 'The Rabatak', 'Ashvaghosha'], notes={'coins': 'Gold: Vima, Kanishka', 'inscriptions': 'Rabatak, Mathura', 'texts': 'Buddhacharita'},
 sources="How do we know? Kushana gold coins, in Greek letters, are everywhere. The Rabatak inscription in Afghanistan names Kanishka. And writers such as Ashvaghosha lived at his court.",
 frieze="The Kushanas were a branch of the Yuezhi, a people from Central Asia. Kujula Kadphises united the tribes and took the north-west. His successor Vima Kadphises issued the first Kushana gold coins. "
-"The greatest Kushana king was Kanishka. He began his reign about 78 CE, and the Shaka era is traditionally linked to it, though some scholars give a later date. "
+"The greatest Kushana king was Kanishka. Tradition dates his accession to 78 CE, the start of the Shaka era. Many modern scholars favour a later date, about 127 CE. "
 "His capital was Purushapura, now Peshawar. He also ruled from Mathura. His empire stretched from Central Asia to the Ganga plains. "
 "Kanishka supported Buddhism. The fourth Buddhist council is said to have met in his time. He built a tall stupa at Peshawar. "
 "His court was home to Ashvaghosha, who wrote the Buddhacharita, and to the physician Charaka. "
@@ -13,7 +13,7 @@ frieze="The Kushanas were a branch of the Yuezhi, a people from Central Asia. Ku
 scenes=[
  sc(None, 'The Yuezhi', fg(-190, 'Kujula', crown=1, col='basalt'), ar(130, 'coin', None, .9), hl(380, .6)),
  sc('His successor', 'Vima Kadphises', fg(-130, 'Vima', crown=1), ar(180, 'coin', 'First Kushana gold', 1.2)),
- sc('The greatest Kushana', 'Kanishka, about 78 CE', fg(-130, 'Kanishka', crown=1, col='ochre'), tx(-340, 'Shaka era, traditionally', 36, 220)),
+ sc('The greatest Kushana', 'Kanishka: 78 or 127 CE', fg(-130, 'Kanishka', crown=1, col='ochre'), tx(-340, 'Shaka era, traditionally', 36, 220)),
  sc('His capital was', 'Purushapura and Mathura', wl(-190, .9), hs(150), tx(-380, 'Peshawar  ·  Mathura', 38, 0)),
  sc('Kanishka supported', 'Patron of Buddhism', ar(-60, 'stupa', 'A tall stupa at Peshawar', 1.3)),
  sc('The Kushanas controlled', 'The Silk Route', ar(-180, 'ship', 'Silk and spices', .9), fg(150, 'Merchant', col='clay'), tx(-350, 'Central Asia to the Ganga', 36, 0)),

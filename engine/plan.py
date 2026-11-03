@@ -36,7 +36,7 @@ PLAN = [
     (33, 'The Guptas Fade', 'Guptas_Fade', (467, 550), 'sword', 'Gupta sword'),
     (34, 'Harsha and the Pilgrim', 'Harsha', (606, 647), 'wheel', 'Dharma wheel'),
     (35, 'The Pallavas', 'Pallavas', (275, 897), 'ship', 'Mamallapuram boat'),
-    (36, 'The Chalukyas of Badami', 'Chalukyas', (543, 757), 'elephant', 'Chalukya elephant'),
+    (36, 'The Chalukyas of Badami', 'Chalukyas', (543, 753), 'elephant', 'Chalukya elephant'),
     (37, 'The Cholas', 'Cholas', (850, 1279), 'gopuram', 'Chola gopuram'),
     (38, 'Chola Village and Temple', 'Chola_Temples', (850, 1279), 'lamp', 'Bronze lamp'),
     (39, 'Three Powers, One Prize', 'Tripartite_Struggle', (750, 1000), 'crown', 'Kannauj crown'),

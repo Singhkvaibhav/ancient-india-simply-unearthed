@@ -2,9 +2,9 @@ from engine.epkit import *
 SPEC = dict(ep=15,
 dig_q='What was a Greek helmet doing in India?', tags=['Era: 327 to 325 BCE', 'Link: Alexander'], q_at='What was',
 dig="The brush clears a bronze helmet, crested and curved. It is Greek in style. Yet it is a find from the north-west of the subcontinent. Two great empires, Persian and Greek, reached this land before the Mauryas. What was a Greek helmet doing in India?",
-lit=['inscriptions', "travellers' accounts"], lit_cues=['Persian inscriptions', 'Greek writers'], notes={'inscriptions': 'Behistun, Persepolis', "travellers' accounts": 'Arrian, Plutarch'},
-sources="How do we know? Persian inscriptions at Behistun and Persepolis name a land called Hindush. Greek writers, such as Arrian, wrote about Alexander and what he saw. They were written long after, so they have to be read with care.",
-frieze="First came the Persians. About 518 BCE, Darius the First, of the Achaemenid empire, took parts of the north-west, which his inscriptions call Hindush. It became a Persian province, a satrapy, and paid tribute in gold. "
+lit=['inscriptions', "travellers' accounts"], lit_cues=['Persian inscriptions', 'Greek writers'], notes={'inscriptions': 'Persepolis, Susa', "travellers' accounts": 'Arrian, Plutarch'},
+sources="How do we know? Persian inscriptions at Persepolis, Susa and Naqsh-i-Rustam name a land called Hindush. Greek writers, such as Arrian, wrote about Alexander and what he saw. They were written long after, so they have to be read with care.",
+frieze="First came the Persians. In the late sixth century BCE, Darius the First, of the Achaemenid empire, took parts of the north-west, which his inscriptions call Hindush. It became a Persian province, a satrapy, and paid tribute in gold. "
 "One result was a new script. Kharosthi, written right to left, grew out of the Aramaic script used by Persian clerks. "
 "Then came Alexander of Macedon. He crossed the Hindu Kush in 327 BCE. The king of Taxila, Ambhi, joined him. "
 "In 326 BCE he fought King Porus on the river Jhelum, which the Greeks called the Hydaspes. The battle was hard, and Alexander honoured Porus and left him as his ally. "

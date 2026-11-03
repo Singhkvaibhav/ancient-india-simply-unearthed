@@ -108,7 +108,8 @@ def dig(art, question, tags=(), t_start=1.2, per=1.15, q_at=None):
             xx = 340 if i == 0 else 1580
             lbl_w = 360
             carve(ctx, lambda xx=xx: rrect(ctx, xx - lbl_w / 2, 790 - 24 * (1 - ta), lbl_w, 52, 10), C['lime'], ta, bev=2, grain=.2)
-            text(ctx, tg, xx, 825 - 24 * (1 - ta), 24, C['soot'], ta, True, 'c', False)
+            font(ctx, 24, True, False); fs = min(24, 24 * (lbl_w - 28) / ctx.text_extents(tg).x_advance)
+            text(ctx, tg, xx, 825 - 24 * (1 - ta) - (24 - fs) * .3, fs, C['soot'], ta, True, 'c', False)
     f.bg = 'trench'
     return f
 
@@ -273,9 +274,9 @@ def plaque(old=None, new=None, a_txt=None, b_txt=None, heading=None, cue_a=None,
             p1 = ease(seg(t, .8, 1.6)); p2 = ease(seg(t, T(cue_b) if cue_b else 3.0, (T(cue_b) if cue_b else 3.0) + .8))
             etext(ctx, 'Old name, new name', 960, 250, 48, C['sandst'], ease(seg(t, .2, .9)))
             for xx, lab, p in ((520, old, p1), (1400, new, p2)):
-                font(ctx, 54, True, True)
+                font(ctx, 54, True, True); fs = min(54, 54 * 600 / ctx.text_extents(lab).x_advance)
                 carve(ctx, lambda xx=xx: rrect(ctx, xx - 330, 380, 660, 220, 16), C['lime'], p, bev=4, grain=.2)
-                text(ctx, lab, xx, 510, 54, C['soot'], p, True, 'c', True)
+                text(ctx, lab, xx, 510 + (54 - fs) * .35, fs, C['soot'], p, True, 'c', True)
             pa = ease(seg(t, T(cue_b) - .3 if cue_b else 2.6, (T(cue_b) if cue_b else 3.0) + .4))
             if pa > 0:
                 ctx.save(); ctx.translate(960, 490)
@@ -303,22 +304,23 @@ def inscription(lines, start=TAP_START):
         x, y = 960 - tab_w / 2, 560 - tab_h / 2
         carve(ctx, lambda: rrect(ctx, x, y, tab_w, tab_h, 30), C['lime'], ease(seg(t, .2, .9)), bev=5, grain=.22)
         groove(ctx, lambda: rrect(ctx, x + 18, y + 18, tab_w - 36, tab_h - 36, 20), ease(seg(t, .2, .9)), C['clay'], 3)
+        font(ctx, 54, True, True); fs = min(54, 54 * 1120 / max(ctx.text_extents(l).x_advance for l in lines))
         n = int((t - start) / TAP_RATE) if t > start else 0
         glow = ease(seg(t, start + total * TAP_RATE + .2, start + total * TAP_RATE + 1.6))
         used = 0; tip = None
         for i, l in enumerate(lines):
             k = max(0, min(len(l), n - used)); used += len(l)
             ly = y + 120 + i * 100
-            font(ctx, 54, True, True)
+            font(ctx, fs, True, True)
             full_w = ctx.text_extents(l).x_advance
             if k > 0:
                 part = l[:k]
                 col = C['soot'] if glow <= 0 else mix(C['soot'], C['verd'], glow)
-                text(ctx, part, 960 - full_w / 2, ly, 54, col, 1., True, 'l', True)
+                text(ctx, part, 960 - full_w / 2, ly, fs, col, 1., True, 'l', True)
                 if glow > 0:
-                    text(ctx, part, 960 - full_w / 2, ly, 54, C['verd'], .0, True, 'l', True, glow=C['verd'])
+                    text(ctx, part, 960 - full_w / 2, ly, fs, C['verd'], .0, True, 'l', True, glow=C['verd'])
                     ctx.save(); ctx.set_source_rgba(*C['verd'], .35 * glow)
-                    font(ctx, 54, True, True); ctx.move_to(960 - full_w / 2, ly); ctx.text_path(part); ctx.set_line_width(10); ctx.stroke(); ctx.restore()
+                    font(ctx, fs, True, True); ctx.move_to(960 - full_w / 2, ly); ctx.text_path(part); ctx.set_line_width(10); ctx.stroke(); ctx.restore()
                 if k < len(l): tip = (960 - full_w / 2 + ctx.text_extents(part).x_advance, ly)
         if tip and glow <= 0:
             ctx.save(); ctx.translate(tip[0] + 22, tip[1] - 28); ctx.rotate(-.6 + .08 * math.sin(t * 40))
@@ -381,19 +383,19 @@ def gallery(ep, title, facts, nxt, place_at=1.5, fact_cues=None, next_cue=None):
         earlier = [e for e in range(max(1, ep - 11), ep)]
         # back row of earlier cases
         for k, e in enumerate(earlier):
-            x = 140 + k * 165; y = 330
+            x = 140 + k * 165; y = 215
             case(ctx, x, y, 118, 150, .8, t)
             draw_art(_slot(e)[4], ctx, x, case_art_y(y, 150), .4, .9)
-            text(ctx, str(e), x, y + 100, 20, C['lime'], .6, True, 'c', False)
+            text(ctx, str(e), x, y + 98, 20, C['lime'], .6, True, 'c', False)
         # current case, big
-        cxs, cys = 560, 545
-        case(ctx, cxs, cys, 440, 500, 1., t)
+        cxs, cys = 560, 585
+        case(ctx, cxs, cys, 440, 470, 1., t)
         land = place_at
         fall = 1 - eoc(seg(t, land - .9, land))
         bounce = 6 * math.sin(seg(t, land, land + .5) * math.pi * 3) * (1 - seg(t, land, land + .5)) if t > land else 0
-        draw_art(cur[4], ctx, cxs, case_art_y(cys, 500) - 420 * fall - bounce, 1.55, ease(seg(t, land - 1.1, land - .6)))
+        draw_art(cur[4], ctx, cxs, case_art_y(cys, 470) - 420 * fall - bounce, 1.55, ease(seg(t, land - 1.1, land - .6)))
         if t > land:
-            lamp(ctx, cxs, case_art_y(cys, 500), 420, .35 * ease(seg(t, land, land + 1.2)), t=t)
+            lamp(ctx, cxs, case_art_y(cys, 470), 420, .35 * ease(seg(t, land, land + 1.2)), t=t)
         # label
         lp = ease(seg(t, land + .6, land + 1.4))
         lw = 760

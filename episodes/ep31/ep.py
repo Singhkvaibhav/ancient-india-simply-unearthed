@@ -11,7 +11,7 @@ frieze="Aryabhata, born in 476 CE, wrote the Aryabhatiya in 499 CE. He used plac
 "The age was also great in letters. Kalidasa wrote the play Abhijnanashakuntalam, and poems like the Meghaduta and Raghuvamsha. "
 "The Panchatantra, a book of fables, and the Amarakosha, a word list, also belong here.",
 scenes=[
- sc(None, 'Aryabhata, 476 CE', fg(-190, 'Aryabhata', col='basalt'), ar(130, 'sphere', 'The Earth rotates', 1.0), tx(-360, 'Place value · Pi ≈ 3.1416', 34, 300)),
+ sc(None, 'Aryabhata, 476 CE', fg(-190, 'Aryabhata', col='basalt'), ar(130, 'sphere', 'The Earth rotates', 1.0), tx(-360, 'Place value · Pi ≈ 3.1416', 34, 150)),
  sc('Varahamihira wrote', 'Varahamihira', fg(-130, 'Varahamihira', col='clay'), ar(180, 'manuscript', 'Brihat Samhita', 1.0)),
  sc('The decimal system', 'Zero and place value', tx(-300, '0 1 2 3 4 5 6 7 8 9', 60, 0), tx(-220, 'Later: Hindu-Arabic numerals', 34, 0)),
  sc('In medicine', 'Medicine', ar(-170, 'manuscript', 'Charaka Samhita', 1.0), ar(190, 'manuscript', 'Sushruta Samhita', 1.0)),

@@ -24,7 +24,7 @@ plaque=dict(kind='rename', old='Copper Age', new='Chalcolithic', cue_b='The usua
 tip=['Chalco is copper.', 'Painted pots, village homes, no plough.'], tip_close="Copper with stone, villages with pots, and a hoe in place of the plough. That is the Chalcolithic.",
 quiz=[('pot', 'This red pot with black paint comes from which age: Palaeolithic or Chalcolithic?', 'Chalcolithic'),
       ('sword', 'Name the metal of these hoards found in the Ganga plains.', 'copper'),
-      ('sickle', 'Chalcolithic farmers used a hoe. Did they use the plough?', 'no')],
+      ('sickle', 'Which Maharashtra culture built wattle-and-daub houses at Inamgaon?', 'the Jorwe culture')],
 mains='Why is the Chalcolithic called a village culture?',
 exhibit_say="The painted pot goes into its case. It is red, with bold black designs.",
 facts=['Red ware with black painted designs', 'Chalcolithic: copper used with stone', 'Villages at Ahar, Malwa and Jorwe'],

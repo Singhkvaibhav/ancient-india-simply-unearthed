@@ -9,7 +9,7 @@ frieze="Siddhartha Gautama was born about 563 BCE at Lumbini, in a Shakya clan o
 "His first sermon was given at Sarnath, near Varanasi, to five ascetics. It is called the turning of the wheel of dharma. "
 "He taught the Four Noble Truths. There is suffering. It has a cause, which is desire. It can end. And there is a path to its end. "
 "That path is the Eightfold Path, a Middle Way between pleasure and hard self-denial. It covers right view, thought, speech, action, livelihood, effort, mindfulness and concentration. "
-"He died at Kushinagar, about 483 BCE. Four places mark his life: Lumbini, Bodh Gaya, Sarnath and Kushinagar. Followers formed a sangha, an order of monks and nuns.",
+"He died at Kushinagar, about 483 BCE. Four places mark his life: Lumbini, Bodh Gaya, Sarnath and Kushinagar. Followers formed a sangha, an order of monks and nuns. These are the common textbook dates. Some scholars now place his death closer to 400 BCE.",
 scenes=[
  sc(None, 'Lumbini, about 563 BCE', ar(0, 'lotus', 'Birth', 1.4)),
  sc('After years of search', 'Bodh Gaya', ar(0, 'bodhitree', 'Enlightenment', 1.4)),
@@ -26,6 +26,6 @@ quiz=[('lotus', 'Where was the Buddha born?', 'Lumbini'),
       ('bodhitree', 'Under which tree did he gain enlightenment?', 'the pipal, or Bodhi tree')],
 mains='Discuss the main teachings of the Buddha.',
 exhibit_say="The carved footprints go into their case. They remind us that early art showed the Buddha by symbols.",
-facts=['A footprint, a symbol of presence', 'Four Noble Truths, Eightfold Path', 'About 563 to 483 BCE'],
+facts=['A footprint, a symbol of presence', 'Four Noble Truths, Eightfold Path', 'Common dates: 563 to 483 BCE'],
 )
 build(SPEC, globals())

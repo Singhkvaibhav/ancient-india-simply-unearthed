@@ -204,6 +204,17 @@ def art_gate(ctx, cx, cy, s=1., a=1.):
     for k, w in enumerate((200, 180, 160)):
         carve(ctx, lambda k=k, w=w: rrect(ctx, cx - w / 2 * s, cy - (24 + k * 30) * s, w * s, 18 * s, 6 * s), C['sandst'], a, bev=2)
 
+def art_wall(ctx, cx, cy, s=1., a=1.):
+    """a city wall with two towers and a gate"""
+    carve(ctx, lambda: rrect(ctx, cx - 120 * s, cy - 10 * s, 240 * s, 100 * s, 3), C['sandst'], a)
+    for sx in (-120, 82):
+        carve(ctx, lambda sx=sx: rrect(ctx, cx + sx * s, cy - 56 * s, 38 * s, 146 * s, 3), C['sandst'], a)
+        for k in range(3):
+            carve(ctx, lambda sx=sx, k=k: rrect(ctx, cx + (sx + k * 14 - 2) * s, cy - 76 * s, 10 * s, 20 * s, 2), C['sandst'], a, bev=1)
+    for k in range(5):
+        carve(ctx, lambda k=k: rrect(ctx, cx - 70 * s + k * 28 * s, cy - 30 * s, 18 * s, 20 * s, 2), C['sandst'], a, bev=1)
+    carve(ctx, lambda: rrect(ctx, cx - 24 * s, cy + 30 * s, 48 * s, 60 * s, 22 * s), C['soot'], a, bev=2)
+
 ART = {k[4:]: v for k, v in list(globals().items()) if k.startswith('art_')}
 
 def draw_art(name, ctx, cx, cy, s=1., a=1.):
