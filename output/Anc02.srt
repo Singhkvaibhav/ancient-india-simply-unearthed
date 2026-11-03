@@ -1,108 +1,108 @@
 1
-00:00:00,850 --> 00:00:08,755
+00:00:00,850 --> 00:00:08,566
 The brush reveals a smooth, polished axe, ground on a stone until its edge was sharp. This is a Neolithic tool.
 
 2
-00:00:08,755 --> 00:00:14,721
+00:00:08,566 --> 00:00:14,654
 People who made it were no longer only hunting. They were planting seeds, and keeping animals.
 
 3
-00:00:14,721 --> 00:00:17,769
+00:00:14,654 --> 00:00:17,758
 What changed when people began to farm?
 
 4
-00:00:32,317 --> 00:00:41,426
+00:00:31,750 --> 00:00:40,656
 How do we know? Again, from the ground. Archaeologists dug up pits, post-holes, burnt grains and animal bones.
 
 5
-00:00:41,426 --> 00:00:47,808
+00:00:40,656 --> 00:00:46,988
 At some sites even the burials show how people lived. There are still no written records.
 
 6
-00:01:00,850 --> 00:01:09,436
+00:00:59,483 --> 00:01:07,814
 After the Palaeolithic comes the Mesolithic, from about ten thousand years ago. Tools became tiny stone blades called microliths.
 
 7
-00:01:09,436 --> 00:01:18,076
+00:01:07,814 --> 00:01:15,956
 People still hunted and gathered, but they also herded animals. At Bhimbetka, rock paintings show hunters and dances.
 
 8
-00:01:18,076 --> 00:01:21,291
-Then came the Neolithic, the New Stone Age.
+00:01:15,956 --> 00:01:22,802
+Then came the Neolithic, the New Stone Age. The best-known early site is Mehrgarh, in Baluchistan.
 
 9
-00:01:21,291 --> 00:01:27,150
-The best-known early site is Mehrgarh, in Baluchistan, dated to about seven thousand BCE.
+00:01:22,802 --> 00:01:31,006
+Its excavators dated it to about seven thousand BCE, though newer radiocarbon work suggests about five thousand BCE.
 
 10
-00:01:27,150 --> 00:01:31,710
+00:01:31,006 --> 00:01:35,424
 Here people grew wheat and barley, and lived in mud-brick houses.
 
 11
-00:01:31,710 --> 00:01:39,197
+00:01:35,424 --> 00:01:42,918
 At Burzahom in Kashmir, people lived in pits dug into the ground. Dogs were buried with their masters.
 
 12
-00:01:39,197 --> 00:01:44,000
+00:01:42,918 --> 00:01:47,732
 At Koldihwa in Uttar Pradesh, grains of rice have been found.
 
 13
-00:01:44,000 --> 00:01:50,522
+00:01:47,732 --> 00:01:54,143
 In the south, at Maski, Brahmagiri and Piklihal in Karnataka, people kept cattle.
 
 14
-00:01:50,522 --> 00:01:58,392
+00:01:54,143 --> 00:02:01,937
 They left behind ash mounds, which are heaps of burnt dung. Neolithic people ground and polished their stone axes.
 
 15
-00:01:58,392 --> 00:02:07,451
+00:02:01,937 --> 00:02:10,540
 They also made pottery, and ground grain on stone querns. Farming meant a fixed home, stored food, and in time, villages.
 
 16
-00:02:07,451 --> 00:02:11,019
+00:02:10,540 --> 00:02:14,096
 This is the foundation of everything that follows.
 
 17
-00:02:24,083 --> 00:02:33,886
+00:02:26,617 --> 00:02:36,105
 Old name, new name. Many books say New Stone Age. The scholarly word is Neolithic, from Greek words meaning new stone.
 
 18
-00:02:33,886 --> 00:02:38,396
+00:02:36,105 --> 00:02:41,141
 It is the age of polished tools, pottery and the first farms.
 
 19
-00:02:51,450 --> 00:03:00,533
+00:02:53,650 --> 00:03:02,841
 Carve this tip into memory. Mesolithic: tiny tools. Neolithic: polished axes, pots, farms.
 
 20
-00:03:00,533 --> 00:03:07,457
+00:03:02,841 --> 00:03:09,585
 Tiny blades first, then polished axes and farms. Put them in that order in your answer.
 
 21
-00:03:20,517 --> 00:03:37,188
+00:03:22,083 --> 00:03:38,617
 Dig Quiz. Pause and name it. Number one. Name this smooth, ground tool of the Neolithic age. The answer: a polished stone axe.
 
 22
-00:03:37,188 --> 00:03:51,057
+00:03:38,617 --> 00:03:52,629
 Number two. This tiny blade was set into a handle. What is such a tool called? The answer: a microlith. Number three.
 
 23
-00:03:51,057 --> 00:04:04,140
+00:03:52,629 --> 00:04:05,782
 Which site in Baluchistan shows the earliest farming in South Asia? The answer: Mehrgarh. Now one line for Mains.
 
 24
-00:04:04,140 --> 00:04:07,923
+00:04:05,782 --> 00:04:09,571
 Discuss the importance of the Neolithic revolution.
 
 25
-00:04:24,983 --> 00:04:32,261
+00:04:26,083 --> 00:04:32,766
 The polished axe goes into its case, next to the hand-axe, for comparison. Three facts to take away.
 
 26
-00:04:32,261 --> 00:04:40,976
+00:04:32,766 --> 00:04:41,476
 Ground and polished, not chipped. Neolithic farmers settled at Mehrgarh. Wheat, barley, pottery and villages appear.
 
 27
-00:04:40,976 --> 00:04:44,814
+00:04:41,476 --> 00:04:45,345
 Next gallery: Copper and Painted Pots.
 
