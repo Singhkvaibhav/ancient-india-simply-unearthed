@@ -1,0 +1,188 @@
+1
+00:00:00,900 --> 00:00:05,578
+The brush uncovers a stone with numbers on it, and one of them is a small circle.
+
+2
+00:00:05,578 --> 00:00:08,958
+That circle is the most useful thing in this episode.
+
+3
+00:00:12,333 --> 00:00:19,555
+It is a symbol for nothing — and without it, no column can be empty, and without empty columns, place value does not work.
+
+4
+00:00:19,555 --> 00:00:23,613
+Somebody had to decide that nothing deserved a sign of its own.
+
+5
+00:00:26,300 --> 00:00:28,113
+Texts, copied for centuries.
+
+6
+00:00:28,113 --> 00:00:32,178
+And inscriptions, which are crucial here because they are dated:
+
+7
+00:00:32,178 --> 00:00:40,106
+a numeral carved on a dated stone proves the system was in ordinary use at that time, not just in a scholar's manuscript.
+
+8
+00:00:44,867 --> 00:00:52,272
+Indian mathematics begins earlier than most people expect, with the Shulba Sutras, texts on the geometry of altar construction.
+
+9
+00:00:55,467 --> 00:01:02,532
+Building an altar of a precise area and shape forced practical geometry: converting a square to a circle of the same area,
+
+10
+00:01:02,532 --> 00:01:08,506
+doubling a square, and relations between the sides of right-angled triangles that are set out as rules.
+
+11
+00:01:08,506 --> 00:01:12,885
+This is applied mathematics, done because a ritual required exactness.
+
+12
+00:01:18,300 --> 00:01:19,629
+Then the system itself.
+
+13
+00:01:19,629 --> 00:01:24,638
+Nine digits whose meaning depends on their column, and a symbol for an empty column.
+
+14
+00:01:28,333 --> 00:01:38,666
+Aryabhata, born 476 CE, works with it; Brahmagupta, in the seventh century, writes down rules for arithmetic with zero and with negative numbers — including,
+
+15
+00:01:38,666 --> 00:01:45,664
+correctly, that a number divided by itself is one, and, less successfully, an attempt at division by zero.
+
+16
+00:01:45,664 --> 00:01:52,765
+The system travels to the Arab world, where scholars develop it further, and reaches Europe from there.
+
+17
+00:01:57,500 --> 00:01:58,231
+Astronomy.
+
+18
+00:01:58,231 --> 00:02:02,680
+Aryabhata explains eclipses as shadows and says the earth rotates.
+
+19
+00:02:02,680 --> 00:02:09,555
+Varahamihira compiles earlier schools, including Greek ones, which is itself evidence of exchange.
+
+20
+00:02:14,367 --> 00:02:18,715
+Bhaskara the Second, in the twelfth century, writes the Siddhanta Shiromani,
+
+21
+00:02:18,715 --> 00:02:25,904
+works on algebra and on the motion of planets, and is the last great figure of this tradition before the medieval period.
+
+22
+00:02:28,100 --> 00:02:28,933
+And medicine.
+
+23
+00:02:28,933 --> 00:02:33,333
+The Charaka Samhita sets out diagnosis, causes of disease, and treatment,
+
+24
+00:02:33,333 --> 00:02:37,379
+with an emphasis on prevention and on the physician's conduct.
+
+25
+00:02:39,600 --> 00:02:44,956
+The Sushruta Samhita describes surgical procedures and lists a large number of instruments,
+
+26
+00:02:44,956 --> 00:02:52,116
+including operations for cataract and for the reconstruction of a nose — procedures that genuinely startled later readers.
+
+27
+00:02:52,116 --> 00:02:57,073
+Both were compiled over long periods, so dating them precisely is not possible.
+
+28
+00:03:01,000 --> 00:03:03,221
+When does the written zero first appear?
+
+29
+00:03:03,221 --> 00:03:10,239
+The Gwalior inscription of the ninth century has long been the standard answer, because it is firmly dated and unambiguous.
+
+30
+00:03:12,433 --> 00:03:18,595
+Radiocarbon work on the Bakhshali manuscript has been argued to push a written zero several centuries earlier,
+
+31
+00:03:18,595 --> 00:03:23,259
+but that manuscript is made of leaves of different ages and the dating is disputed.
+
+32
+00:03:23,259 --> 00:03:30,054
+Give the Gwalior inscription as the firmly dated case, mention the Bakhshali argument, and say the question is open.
+
+33
+00:03:33,967 --> 00:03:36,478
+Here is the memory tip, carved in stone.
+
+34
+00:03:36,478 --> 00:03:41,677
+Zero, surgery, and the spinning earth — three things this tradition worked out.
+
+35
+00:03:47,067 --> 00:03:47,798
+Dig Quiz.
+
+36
+00:03:47,798 --> 00:03:49,189
+Pause and name it.
+
+37
+00:03:49,189 --> 00:03:55,701
+First: the texts on the geometry of altar construction, where Indian mathematics begins.
+
+38
+00:03:55,701 --> 00:03:57,392
+The Shulba Sutras.
+
+39
+00:04:00,267 --> 00:04:07,004
+Second: the seventh-century mathematician who set out rules for arithmetic with zero and negative numbers.
+
+40
+00:04:07,004 --> 00:04:08,122
+Brahmagupta.
+
+41
+00:04:11,433 --> 00:04:16,611
+Third: the medical compilation describing surgical procedures and instruments.
+
+42
+00:04:16,611 --> 00:04:18,053
+The Sushruta Samhita.
+
+43
+00:04:18,053 --> 00:04:23,465
+In Mains, a frequent question asks what ancient India contributed to science.
+
+44
+00:04:25,667 --> 00:04:33,467
+Be specific and be careful: name the text, the idea and roughly when, and do not claim modern discoveries for ancient texts.
+
+45
+00:04:37,333 --> 00:04:40,438
+A stone with a circle on it takes its place in the gallery.
+
+46
+00:04:48,333 --> 00:04:53,047
+Next gallery: the places where this was taught — and what happened to them.
+
+47
+00:04:53,047 --> 00:04:56,882
+To catch it when it's out, subscribe to Gyaan-X Studios.
+

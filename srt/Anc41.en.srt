@@ -1,0 +1,204 @@
+1
+00:00:00,900 --> 00:00:02,970
+The brush uncovers a boundary stone.
+
+2
+00:00:02,970 --> 00:00:06,327
+Somebody walked the edge of a village, agreed where it ran,
+
+3
+00:00:06,327 --> 00:00:11,102
+and set stones into the ground so the agreement would outlast the memory of it.
+
+4
+00:00:17,167 --> 00:00:22,077
+A boundary stone is a small object with a large implication: somebody now owns what is inside it,
+
+5
+00:00:22,077 --> 00:00:26,336
+and the question of who has been one of the great arguments in Indian history.
+
+6
+00:00:29,700 --> 00:00:37,902
+Almost entirely inscriptions — thousands of copper plates and stone inscriptions recording grants, from the early centuries CE onwards.
+
+7
+00:00:37,902 --> 00:00:41,581
+Plus law books and other texts, which supply the vocabulary.
+
+8
+00:00:41,581 --> 00:00:48,876
+This episode is the best example in the series of an argument conducted almost entirely from one class of document.
+
+9
+00:00:51,967 --> 00:00:57,188
+Start with what a grant actually says, because the clauses are the evidence.
+
+10
+00:00:57,188 --> 00:00:59,019
+The donor, usually a king.
+
+11
+00:00:59,019 --> 00:01:03,495
+The recipient — a Brahmin, a temple, a monastery, or an official.
+
+12
+00:01:03,495 --> 00:01:07,864
+The village or land granted, with its boundaries described.
+
+13
+00:01:10,700 --> 00:01:16,562
+The immunities: freedom from specified taxes, and often the right to collect them instead.
+
+14
+00:01:16,562 --> 00:01:20,749
+Sometimes the right to administer, to judge, even to keep fines.
+
+15
+00:01:20,749 --> 00:01:25,043
+And at the end, frequently, a curse on anyone who revokes it.
+
+16
+00:01:27,367 --> 00:01:28,419
+Now the argument.
+
+17
+00:01:28,419 --> 00:01:34,559
+If a king grants away the revenue of a village in perpetuity, he has permanently reduced his own income.
+
+18
+00:01:34,559 --> 00:01:39,245
+If he grants the right to administer it, he has reduced his own authority.
+
+19
+00:01:41,300 --> 00:01:46,882
+Do that a thousand times over several centuries and you have a state that no longer collects from, or governs,
+
+20
+00:01:46,882 --> 00:01:53,417
+large parts of its own territory — and a layer of intermediaries between the king and the peasant who did not exist before.
+
+21
+00:01:56,600 --> 00:02:02,663
+The historians who call this Indian feudalism, R. S. Sharma foremost among them, build a wider case.
+
+22
+00:02:02,663 --> 00:02:09,746
+They argue that long-distance trade declined after the Gupta period, that fewer coins were struck, that towns shrank,
+
+23
+00:02:09,746 --> 00:02:16,528
+that villages became self-sufficient, and that cultivators became tied to the land under their new masters.
+
+24
+00:02:18,967 --> 00:02:25,914
+On this reading the whole early medieval period is a feudal order, comparable in structure if not in detail to medieval Europe.
+
+25
+00:02:29,000 --> 00:02:31,020
+The critics answer point by point.
+
+26
+00:02:31,020 --> 00:02:37,773
+Coin finds and port activity suggest trade continued, with its routes and its goods changing rather than collapsing.
+
+27
+00:02:37,773 --> 00:02:40,948
+Temple towns grew in the south in exactly this period.
+
+28
+00:02:40,948 --> 00:02:43,268
+Merchant guilds remained powerful.
+
+29
+00:02:46,800 --> 00:02:56,745
+And they argue the European template imports the wrong questions: what the evidence shows is the formation of regional states with their own institutions — the integrative polity model,
+
+30
+00:02:56,745 --> 00:03:01,162
+and in the far south the segmentary state model we met in the Chola episode.
+
+31
+00:03:04,267 --> 00:03:08,776
+This is the single biggest debate in early Indian history, and it is not settled.
+
+32
+00:03:08,776 --> 00:03:11,086
+You are not expected to settle it either.
+
+33
+00:03:11,086 --> 00:03:15,265
+You are expected to know what a land grant contains, what each side argues,
+
+34
+00:03:15,265 --> 00:03:20,680
+which evidence each relies on, and to notice that both sides are reading the same documents.
+
+35
+00:03:26,333 --> 00:03:33,811
+A good answer names the historians, sets out both cases, and takes a position with reasons rather than pretending there is a consensus.
+
+36
+00:03:37,233 --> 00:03:39,893
+Here is the memory tip, carved in stone.
+
+37
+00:03:39,893 --> 00:03:45,276
+Grant, intermediary, weaker state — that is the feudalism argument in three words.
+
+38
+00:03:45,276 --> 00:03:48,235
+The counter-argument disputes the third.
+
+39
+00:03:52,633 --> 00:03:53,388
+Dig Quiz.
+
+40
+00:03:53,388 --> 00:03:54,822
+Pause and name it.
+
+41
+00:03:54,822 --> 00:03:59,953
+First: the clause in a grant freeing the land from specified taxes.
+
+42
+00:03:59,953 --> 00:04:01,234
+An immunity.
+
+43
+00:04:04,400 --> 00:04:10,339
+Second: the term for a village granted to Brahmins, whose assembly we met in the Chola episode.
+
+44
+00:04:10,339 --> 00:04:13,299
+A brahmadeya — agrahara is the other term.
+
+45
+00:04:15,433 --> 00:04:21,471
+Third: the kind of evidence critics of the feudalism thesis use to argue that trade did not collapse.
+
+46
+00:04:21,471 --> 00:04:23,547
+Coin finds and port activity.
+
+47
+00:04:26,800 --> 00:04:29,428
+In Mains, this debate comes up directly.
+
+48
+00:04:29,428 --> 00:04:35,242
+Describe the grants, give both cases with their historians, and commit, with reasons.
+
+49
+00:04:38,333 --> 00:04:44,911
+A boundary stone takes its place in the gallery, a small object that two generations of historians have argued over.
+
+50
+00:04:47,133 --> 00:04:52,117
+Next gallery: the two kinds of evidence this whole series has leaned on hardest.
+
+51
+00:04:52,117 --> 00:04:55,924
+To catch it when it's out, subscribe to Gyaan-X Studios.
+

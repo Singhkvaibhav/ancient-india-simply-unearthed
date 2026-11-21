@@ -1,0 +1,196 @@
+1
+00:00:00,900 --> 00:00:05,507
+The brush uncovers a manuscript, and it is not a hymn, a story or a prayer.
+
+2
+00:00:05,507 --> 00:00:11,929
+It is a manual: how to raise revenue, how to run a bureaucracy, how to handle spies, famine and war.
+
+3
+00:00:13,267 --> 00:00:19,804
+Somebody in ancient India sat down and wrote the most unsentimental book about power the subcontinent produced.
+
+4
+00:00:29,667 --> 00:00:31,473
+From the Arthashastra itself.
+
+5
+00:00:31,473 --> 00:00:35,810
+From Greek accounts, especially Megasthenes, who came as an ambassador.
+
+6
+00:00:35,810 --> 00:00:40,507
+From Jain and Buddhist traditions, which preserve stories about Chandragupta.
+
+7
+00:00:40,507 --> 00:00:42,254
+And from a few inscriptions.
+
+8
+00:00:42,254 --> 00:00:46,589
+These sources disagree with each other more than you might expect.
+
+9
+00:00:50,667 --> 00:00:55,423
+Around 321 BCE, Chandragupta Maurya overthrew the Nandas and took Magadha.
+
+10
+00:00:55,423 --> 00:01:00,687
+The traditions say he was helped by Kautilya, also called Chanakya or Vishnugupta,
+
+11
+00:01:00,687 --> 00:01:04,475
+a Brahmin teacher from Taxila who became his minister.
+
+12
+00:01:08,133 --> 00:01:14,556
+How much of that partnership is history and how much is later storytelling is debated — but the empire is not in doubt.
+
+13
+00:01:17,600 --> 00:01:18,781
+He expanded fast.
+
+14
+00:01:18,781 --> 00:01:26,098
+Magadha first, then north-west into the territory Alexander's successors held, then south into the Deccan.
+
+15
+00:01:28,267 --> 00:01:32,340
+Within a generation the Mauryas controlled more of the subcontinent than any Indi
+
+16
+00:01:32,340 --> 00:01:36,762
+an state had before — the first time so much of it answered to one administration.
+
+17
+00:01:40,267 --> 00:01:45,998
+Around 305 BCE he met Seleucus Nicator, who ruled the eastern part of Alexander's empire.
+
+18
+00:01:45,998 --> 00:01:54,640
+The sources record a settlement: Seleucus ceded territory in the north-west, and Chandragupta gave him five hundred war elephants.
+
+19
+00:01:58,833 --> 00:02:02,482
+A marriage alliance is mentioned too, though the details are unclear.
+
+20
+00:02:02,482 --> 00:02:05,869
+Seleucus then sent Megasthenes as his ambassador to Pataliputra,
+
+21
+00:02:05,869 --> 00:02:09,922
+which is why we have a Greek description of the Mauryan capital at all.
+
+22
+00:02:14,000 --> 00:02:19,009
+And then the Arthashastra, attributed to Kautilya, which is where the theory lives.
+
+23
+00:02:19,009 --> 00:02:23,660
+Its most quoted idea is the saptanga, the seven limbs of the state: the king,
+
+24
+00:02:23,660 --> 00:02:29,268
+the ministers, the territory and people, the fort, the treasury, the army, and the ally.
+
+25
+00:02:32,067 --> 00:02:35,277
+A state, it argues, is healthy only when all seven are.
+
+26
+00:02:35,277 --> 00:02:38,888
+Its other famous idea is the mandala theory of foreign policy:
+
+27
+00:02:38,888 --> 00:02:44,404
+your neighbour is your likely enemy, and your neighbour's neighbour is your likely friend.
+
+28
+00:02:47,967 --> 00:02:49,366
+A caution about the book.
+
+29
+00:02:49,366 --> 00:02:56,929
+Some scholars treat it as substantially Kautilya's, written in the Mauryan period, and read Mauryan administration directly out of it.
+
+30
+00:03:12,200 --> 00:03:16,938
+Others argue it reached its present form several centuries later, as a compilation,
+
+31
+00:03:16,938 --> 00:03:23,254
+and that using it to describe Chandragupta's government is reading a later textbook back onto an earlier state.
+
+32
+00:03:23,254 --> 00:03:27,202
+Most now take a middle position: an older core, with later additions.
+
+33
+00:03:27,202 --> 00:03:32,014
+Treat it as political theory first, and as evidence of practice only with care.
+
+34
+00:03:33,333 --> 00:03:36,656
+Here is the memory tip, carved in stone.
+
+35
+00:03:36,656 --> 00:03:41,193
+King, ministers, territory, fort, treasury, army, ally.
+
+36
+00:03:41,193 --> 00:03:43,600
+Seven limbs of the state.
+
+37
+00:03:47,633 --> 00:03:48,385
+Dig Quiz.
+
+38
+00:03:48,385 --> 00:03:49,814
+Pause and name it.
+
+39
+00:03:49,814 --> 00:03:55,377
+First: the Arthashastra's model of the state as seven essential elements.
+
+40
+00:03:55,377 --> 00:03:56,730
+The saptanga.
+
+41
+00:03:59,400 --> 00:04:05,072
+Second: its theory that a neighbour is a likely enemy and the neighbour's neighbour a likely friend.
+
+42
+00:04:05,072 --> 00:04:06,495
+The mandala theory.
+
+43
+00:04:09,200 --> 00:04:16,641
+Third: the Greek ambassador sent to Pataliputra, whose account survives only in fragments quoted by others.
+
+44
+00:04:16,641 --> 00:04:17,837
+Megasthenes.
+
+45
+00:04:19,167 --> 00:04:25,501
+In Mains, a good question asks how far the Arthashastra can be used as evidence for Mauryan administration.
+
+46
+00:04:25,501 --> 00:04:29,672
+Answer it as a question about dating and genre, not just content.
+
+47
+00:04:34,100 --> 00:04:41,189
+A manual of statecraft takes its place in the gallery: the most clear-eyed book about power that ancient India left us.
+
+48
+00:04:44,167 --> 00:04:51,466
+Next gallery: his grandson fights one war, and then spends the rest of his reign explaining why he will not fight another.
+
+49
+00:04:51,466 --> 00:04:55,148
+To catch it when it's out, subscribe to Gyaan-X Studios.
+

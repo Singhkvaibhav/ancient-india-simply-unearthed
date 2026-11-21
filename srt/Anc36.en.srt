@@ -1,0 +1,212 @@
+1
+00:00:00,900 --> 00:00:04,267
+The brush uncovers a floor plan, and it is not a rectangle.
+
+2
+00:00:04,267 --> 00:00:08,158
+It is a star, its points stepping around and around the shrine.
+
+3
+00:00:12,433 --> 00:00:19,167
+A star plan gives a building far more wall surface than a square one would — and if your stone is soft enough to carve like wood,
+
+4
+00:00:19,167 --> 00:00:21,643
+more surface means more room for carving.
+
+5
+00:00:28,300 --> 00:00:32,347
+Inscriptions, in Kannada, Telugu and Sanskrit, in large numbers.
+
+6
+00:00:32,347 --> 00:00:35,522
+The standing temples, which are the main evidence.
+
+7
+00:00:35,522 --> 00:00:39,870
+And literature, which for this period and region is substantial.
+
+8
+00:00:42,433 --> 00:00:46,865
+Four kingdoms, and the easiest way to hold them is by capital.
+
+9
+00:00:46,865 --> 00:00:55,324
+The Later Chalukyas, also called the Western Chalukyas, at Kalyani from about 973 CE. The Hoysalas at Dwarasamudra.
+
+10
+00:00:58,500 --> 00:01:00,669
+The Yadavas, or Seunas, at Devagiri.
+
+11
+00:01:00,669 --> 00:01:02,486
+And the Kakatiyas at Warangal.
+
+12
+00:01:02,486 --> 00:01:05,535
+The last three rise as the Later Chalukyas decline,
+
+13
+00:01:05,535 --> 00:01:10,935
+and all of them are ended in the early fourteenth century by invasions from the north.
+
+14
+00:01:14,633 --> 00:01:17,796
+The Hoysalas are the ones to know for architecture.
+
+15
+00:01:17,796 --> 00:01:23,696
+Their temples at Belur, Halebidu and Somanathapura are built on star plans, on raised platforms,
+
+16
+00:01:23,696 --> 00:01:30,018
+in soapstone — a stone soft enough to be worked almost like wood, and which hardens with exposure.
+
+17
+00:01:34,467 --> 00:01:41,587
+The result is carving of extraordinary density: horizontal bands running right round the building, each with its own subject.
+
+18
+00:01:41,587 --> 00:01:45,334
+Several of their sculptors signed their work, which is rare.
+
+19
+00:01:49,500 --> 00:01:53,646
+The Kakatiyas matter for something less often taught and more useful: water.
+
+20
+00:01:53,646 --> 00:02:00,539
+The Telangana plateau has no great river running through it, so the Kakatiyas and their chiefs built tanks — thousands of them,
+
+21
+00:02:00,539 --> 00:02:05,740
+bunded reservoirs catching the monsoon and releasing it through sluices into fields below.
+
+22
+00:02:10,267 --> 00:02:13,359
+Inscriptions record their construction and their upkeep.
+
+23
+00:02:13,359 --> 00:02:19,301
+It is one of the clearest cases in ancient India of a state's power resting on an engineering decision.
+
+24
+00:02:24,600 --> 00:02:25,672
+Two more things.
+
+25
+00:02:25,672 --> 00:02:34,172
+Devagiri, the Yadava capital, is a fortress on an isolated hill with concentric defences, considered near-impregnable in its day.
+
+26
+00:02:39,400 --> 00:02:47,445
+And across all four kingdoms the merchant guilds were powerful — the Ayyavole guild in particular appears in inscriptions across the Deccan and beyond,
+
+27
+00:02:47,445 --> 00:02:53,037
+which tells you that long-distance trade carried on regardless of which dynasty held which capital.
+
+28
+00:02:56,867 --> 00:02:58,117
+Names to match.
+
+29
+00:02:58,117 --> 00:03:01,164
+Dwarasamudra is Halebidu in Karnataka.
+
+30
+00:03:01,164 --> 00:03:04,211
+Devagiri was later renamed Daulatabad.
+
+31
+00:03:04,211 --> 00:03:06,464
+Kalyani is Basavakalyan.
+
+32
+00:03:09,000 --> 00:03:10,714
+Warangal is still Warangal.
+
+33
+00:03:10,714 --> 00:03:16,216
+Questions often give the old name and expect the modern one, or the other way round.
+
+34
+00:03:20,333 --> 00:03:23,938
+Here is the memory tip, carved in stone.
+
+35
+00:03:23,938 --> 00:03:26,576
+Four capitals, four kingdoms.
+
+36
+00:03:26,576 --> 00:03:28,246
+Kalyani, Chalukya.
+
+37
+00:03:28,246 --> 00:03:30,268
+Dwarasamudra, Hoysala.
+
+38
+00:03:30,268 --> 00:03:31,851
+Devagiri, Yadava.
+
+39
+00:03:31,851 --> 00:03:33,909
+Warangal, Kakatiya.
+
+40
+00:03:39,467 --> 00:03:40,175
+Dig Quiz.
+
+41
+00:03:40,175 --> 00:03:41,520
+Pause and name it.
+
+42
+00:03:41,520 --> 00:03:48,105
+First: the dynasty whose temples are built on star plans in soapstone at Belur and Halebidu.
+
+43
+00:03:48,105 --> 00:03:49,397
+The Hoysalas.
+
+44
+00:03:53,267 --> 00:03:58,104
+Second: the bunded reservoirs built in their thousands on the Telangana plateau.
+
+45
+00:03:58,104 --> 00:04:00,435
+Tanks, built under the Kakatiyas.
+
+46
+00:04:08,900 --> 00:04:13,204
+Third: the Yadava capital, a fortress on an isolated hill.
+
+47
+00:04:13,204 --> 00:04:13,934
+Devagiri.
+
+48
+00:04:13,934 --> 00:04:20,653
+In Mains, a good question asks how regional kingdoms shaped Indian art and engineering.
+
+49
+00:04:23,200 --> 00:04:27,217
+Use Hoysala soapstone carving and Kakatiya tank irrigation together:
+
+50
+00:04:27,217 --> 00:04:32,116
+one is about surplus and display, the other about making the surplus possible.
+
+51
+00:04:36,000 --> 00:04:41,184
+A star plan takes its place in the gallery, a shape chosen to give the carvers more stone to work.
+
+52
+00:04:45,367 --> 00:04:52,060
+Next gallery: the kingdoms of the west and north, and an argument about where their ruling families came from.
+
+53
+00:04:52,060 --> 00:04:55,797
+To catch it when it's out, subscribe to Gyaan-X Studios.
+

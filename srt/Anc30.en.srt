@@ -1,0 +1,204 @@
+1
+00:00:00,900 --> 00:00:05,724
+The brush uncovers iron — a tall, slender shaft, and the surface is almost clean.
+
+2
+00:00:05,724 --> 00:00:10,672
+Iron left standing in the open for sixteen centuries should be a heap of rust.
+
+3
+00:00:12,400 --> 00:00:18,282
+This one is not, and the reason is chemistry: the composition of the metal forms a protective layer.
+
+4
+00:00:18,282 --> 00:00:20,844
+Whoever made it did not know the chemistry.
+
+5
+00:00:20,844 --> 00:00:22,367
+They knew the craft.
+
+6
+00:00:25,800 --> 00:00:31,211
+Texts, copied and recopied: mathematical and astronomical treatises, and plays and poems.
+
+7
+00:00:31,211 --> 00:00:38,065
+And inscriptions, which among other things tell us that the numerals and the dating systems were in everyday use,
+
+8
+00:00:38,065 --> 00:00:40,109
+not just in scholars' books.
+
+9
+00:00:43,133 --> 00:00:48,472
+Start with Aryabhata, born in 476 CE, who wrote the Aryabhatiya at the age of twenty-three.
+
+10
+00:00:48,472 --> 00:00:53,986
+In it he gives a value for pi accurate to four decimal places and describes it as approximate,
+
+11
+00:00:53,986 --> 00:00:57,013
+which is a remarkable thing to be clear about.
+
+12
+00:01:00,967 --> 00:01:08,937
+He explains eclipses correctly, as shadows — the earth's shadow on the moon, the moon's shadow on the earth — rather than by myth.
+
+13
+00:01:08,937 --> 00:01:15,504
+And he states that the apparent daily motion of the stars is caused by the earth rotating on its axis.
+
+14
+00:01:17,333 --> 00:01:21,546
+And the thing that changed the world: the decimal place-value system with a zero.
+
+15
+00:01:21,546 --> 00:01:25,914
+The idea that the same nine digits mean different amounts depending on their column,
+
+16
+00:01:25,914 --> 00:01:32,071
+and that an empty column needs a symbol of its own, is one of the most consequential inventions anybody has made.
+
+17
+00:01:35,967 --> 00:01:39,523
+It developed in India over this period, passed to the Arab world,
+
+18
+00:01:39,523 --> 00:01:44,943
+and reached Europe centuries later — which is why Europeans called the digits Arabic numerals.
+
+19
+00:01:46,900 --> 00:01:47,892
+Others to know.
+
+20
+00:01:47,892 --> 00:01:53,470
+Varahamihira, whose Brihat Samhita is a compendium of astronomy, astrology and much else,
+
+21
+00:01:53,470 --> 00:01:57,985
+and who compiled earlier astronomical schools including Greek ones.
+
+22
+00:02:00,400 --> 00:02:06,162
+Brahmagupta, slightly later, who set out rules for working with zero and with negative numbers.
+
+23
+00:02:06,162 --> 00:02:14,324
+And in medicine, the Charaka and Sushruta traditions — older than this period but compiled and commented on in it — covering diagnosis,
+
+24
+00:02:14,324 --> 00:02:16,004
+treatment and surgery.
+
+25
+00:02:18,000 --> 00:02:21,605
+The literature is Sanskrit and the best-known name is Kalidasa,
+
+26
+00:02:21,605 --> 00:02:26,861
+author of the play Abhijnanashakuntalam, the poems Meghaduta and Raghuvamsha, and more.
+
+27
+00:02:29,267 --> 00:02:31,853
+Also of this broad period: the Panchatantra,
+
+28
+00:02:31,853 --> 00:02:38,060
+animal fables that travelled further than almost any Indian book; and the final compilation of the Puranas.
+
+29
+00:02:38,060 --> 00:02:45,888
+Sanskrit becomes the language of courts and of learning across the subcontinent, which is itself a historical fact worth noticing.
+
+30
+00:02:49,000 --> 00:02:49,996
+So: golden age?
+
+31
+00:02:49,996 --> 00:02:56,520
+The case for is real — the achievements of this period are extraordinary and they are concentrated.
+
+32
+00:02:58,733 --> 00:03:04,323
+The case against is that the phrase describes the experience of a small, courtly, educated minority;
+
+33
+00:03:04,323 --> 00:03:09,414
+that the same period's legal texts narrow the position of women and of lower-ranked groups;
+
+34
+00:03:09,414 --> 00:03:13,786
+and that the sources which survive are precisely the ones that elite produced.
+
+35
+00:03:13,786 --> 00:03:19,455
+A good answer gives the achievements their full weight and then says who the age was golden for.
+
+36
+00:03:24,300 --> 00:03:27,014
+Here is the memory tip, carved in stone.
+
+37
+00:03:27,014 --> 00:03:31,616
+Zero, pi, and the spinning earth — three things worked out here.
+
+38
+00:03:36,400 --> 00:03:37,193
+Dig Quiz.
+
+39
+00:03:37,193 --> 00:03:38,701
+Pause and name it.
+
+40
+00:03:38,701 --> 00:03:46,239
+First: the mathematician and astronomer born in 476 CE who said the earth rotates on its axis.
+
+41
+00:03:46,239 --> 00:03:47,411
+Aryabhata.
+
+42
+00:03:50,100 --> 00:03:57,444
+Second: the numeral system, with a symbol for an empty column, that passed from India to the Arab world and then to Europe.
+
+43
+00:03:59,400 --> 00:04:02,583
+The decimal place-value system, with zero.
+
+44
+00:04:02,583 --> 00:04:06,803
+Third: the author of Abhijnanashakuntalam and Meghaduta.
+
+45
+00:04:06,803 --> 00:04:07,843
+Kalidasa.
+
+46
+00:04:15,267 --> 00:04:20,864
+In Mains, a frequent question asks whether the Gupta period deserves to be called a golden age.
+
+47
+00:04:20,864 --> 00:04:25,829
+Give the achievements, then ask the question the label avoids: golden for whom?
+
+48
+00:04:27,400 --> 00:04:31,105
+The iron pillar takes its place in the gallery, still barely rusted.
+
+49
+00:04:45,400 --> 00:04:48,867
+Next gallery: the north is pulled together one more time,
+
+50
+00:04:48,867 --> 00:04:53,828
+by a king we know unusually well because two very different writers described him.
+
+51
+00:04:53,828 --> 00:04:57,535
+To catch it when it's out, subscribe to Gyaan-X Studios.
+

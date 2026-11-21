@@ -1,0 +1,228 @@
+1
+00:00:00,900 --> 00:00:04,981
+A bundle of palm leaves, bound between two wooden boards.
+
+2
+00:00:04,981 --> 00:00:10,189
+Here is the thing to understand before anything else: no original exists.
+
+3
+00:00:10,189 --> 00:00:11,614
+Palm leaf rots.
+
+4
+00:00:14,400 --> 00:00:17,195
+Every manuscript we have is a copy of a copy.
+
+5
+00:00:17,195 --> 00:00:25,274
+What survived was not the object — it was the recitation, repeated exactly, generation after generation, and written down late.
+
+6
+00:00:29,533 --> 00:00:32,841
+One source only this time, and it is the texts themselves.
+
+7
+00:00:32,841 --> 00:00:37,885
+This episode is a map of them, because once you can see how Vedic literature is arranged,
+
+8
+00:00:37,885 --> 00:00:41,997
+a great deal of what looks like a jumble of names falls into place.
+
+9
+00:00:46,533 --> 00:00:47,940
+There are four Vedas.
+
+10
+00:00:47,940 --> 00:00:49,857
+The Rigveda, hymns of praise.
+
+11
+00:00:49,857 --> 00:00:54,843
+The Samaveda, those hymns set to melody — the root of Indian classical music.
+
+12
+00:00:54,843 --> 00:00:59,682
+The Yajurveda, the formulas and procedures for performing a sacrifice.
+
+13
+00:01:02,467 --> 00:01:06,475
+And the Atharvaveda, which is different in character: charms, spells,
+
+14
+00:01:06,475 --> 00:01:10,840
+remedies, and a great deal of everyday life that the others leave out.
+
+15
+00:01:14,133 --> 00:01:16,596
+Now the part that unlocks everything.
+
+16
+00:01:16,596 --> 00:01:20,678
+Each Veda is not one text but four layers, built up over time.
+
+17
+00:01:20,678 --> 00:01:23,594
+The Samhita is the core collection of hymns.
+
+18
+00:01:23,594 --> 00:01:28,624
+The Brahmanas are prose explanations of the rituals: what to do and why.
+
+19
+00:01:31,967 --> 00:01:36,811
+The Aranyakas, the forest books, are for those who have withdrawn from ordinary life,
+
+20
+00:01:36,811 --> 00:01:40,866
+and the emphasis shifts from performing the ritual to understanding it.
+
+21
+00:01:40,866 --> 00:01:45,165
+And the Upanishads sit innermost, where the question changes entirely.
+
+22
+00:01:48,333 --> 00:01:51,508
+The Upanishads are philosophy, and mostly dialogue.
+
+23
+00:01:51,508 --> 00:01:58,039
+They ask what lies behind the ritual: what the self is, what reality is, and whether the two are the same.
+
+24
+00:01:58,039 --> 00:02:02,368
+The word itself carries the sense of sitting down near a teacher.
+
+25
+00:02:05,167 --> 00:02:08,219
+There are many; a smaller group are treated as principal.
+
+26
+00:02:08,219 --> 00:02:14,308
+This is the strand of Vedic thought that later Indian philosophy argues with for the next two thousand years.
+
+27
+00:02:18,933 --> 00:02:25,887
+And around the Vedas grew six supporting disciplines, the Vedangas, the limbs of the Veda.
+
+28
+00:02:25,887 --> 00:02:27,721
+Shiksha, pronunciation.
+
+29
+00:02:27,721 --> 00:02:29,631
+Kalpa, ritual procedure.
+
+30
+00:02:29,631 --> 00:02:31,159
+Vyakarana, grammar.
+
+31
+00:02:31,159 --> 00:02:34,597
+Nirukta, the explanation of difficult words.
+
+32
+00:02:34,597 --> 00:02:36,120
+Chhanda, metre.
+
+33
+00:02:40,100 --> 00:02:43,621
+Jyotisha, astronomy, for fixing the time of a rite.
+
+34
+00:02:43,621 --> 00:02:52,491
+Notice what these are: a civilisation that has to transmit a text perfectly by voice will invent phonetics, grammar and etymology.
+
+35
+00:02:52,491 --> 00:02:54,657
+The precision was not academic.
+
+36
+00:02:54,657 --> 00:02:56,176
+It was necessary.
+
+37
+00:02:58,967 --> 00:03:01,059
+Two words you will meet constantly.
+
+38
+00:03:01,059 --> 00:03:07,579
+Shruti means that which was heard, and covers the Vedas and their layers — treated as revealed, and fixed.
+
+39
+00:03:12,433 --> 00:03:20,105
+Smriti means that which was remembered: the epics, the Puranas, the law books — human in authorship, and able to change.
+
+40
+00:03:20,105 --> 00:03:25,985
+When a source is described as shruti or smriti, that is what is being claimed about it.
+
+41
+00:03:30,300 --> 00:03:33,827
+Here is the memory tip, carved in stone.
+
+42
+00:03:33,827 --> 00:03:34,859
+Four Vedas.
+
+43
+00:03:34,859 --> 00:03:35,977
+Four layers.
+
+44
+00:03:35,977 --> 00:03:37,223
+Six limbs.
+
+45
+00:03:42,300 --> 00:03:42,963
+Dig Quiz.
+
+46
+00:03:42,963 --> 00:03:44,222
+Pause and name it.
+
+47
+00:03:44,222 --> 00:03:51,347
+First: the Veda in which the hymns are set to melody, and from which Indian classical music is traced.
+
+48
+00:03:55,967 --> 00:03:56,906
+The Samaveda.
+
+49
+00:03:56,906 --> 00:04:01,806
+Second: the prose layer that explains how a ritual is performed and why.
+
+50
+00:04:01,806 --> 00:04:02,812
+The Brahmanas.
+
+51
+00:04:02,812 --> 00:04:07,945
+Third: the six supporting disciplines, from pronunciation to astronomy.
+
+52
+00:04:10,733 --> 00:04:11,592
+The Vedangas.
+
+53
+00:04:11,592 --> 00:04:17,227
+In Mains, a recurring question asks what the Upanishads contributed to Indian thought.
+
+54
+00:04:24,733 --> 00:04:31,821
+Point to the shift from ritual performance to enquiry, and to the questions about the self and reality that later schools take up.
+
+55
+00:04:35,800 --> 00:04:41,545
+A bundle of palm leaves takes its place in the gallery: the most carefully copied thing in this room.
+
+56
+00:04:45,100 --> 00:04:51,269
+Next gallery: how this society ordered itself, and the arguments about how that order began.
+
+57
+00:04:51,269 --> 00:04:55,351
+To catch it when it's out, subscribe to Gyaan-X Studios.
+
